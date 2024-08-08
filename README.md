@@ -1,4 +1,4 @@
-<h1>Front-end-web-site-1</h1>
+<h1>Udemig Front-End Project</h1>
 
 <h1>Techs</h1>
 
